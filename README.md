@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Abhinav Shukla
+- 👀 I’m interested in DSA Solving and Web Dev
+- 🌱 I’m currently learning DSA and basics of JS
+- 💞️ I’m looking to collaborate on anything
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am Avid Football Fan and a proud Gunner, COYG!
