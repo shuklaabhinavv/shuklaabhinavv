@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning DSA and basics of JS
 - 💞️ I’m looking to collaborate on anything
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am Avid Football Fan and a proud Gunner, COYG!
+- ⚡ Fun fact: I am an avid football fan and a proud Gunner, COYG! ⚽
