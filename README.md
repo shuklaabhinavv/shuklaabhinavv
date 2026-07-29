@@ -1,18 +1,53 @@
-# 💫 About Me:
-👋 Hi, I’m Abhinav Shukla.<br>👀 I’m interested in DSA, Web Dev and Data Science<br>🌱 I’m currently learning anything new which excites me<br>💞️ I’m looking to collaborate on anything<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I am an avid football fan and a proud Gunner, COYG! ⚽<br>
+<h1 align="center">Hi, I'm Abhinav Shukla 👋</h1>
 
+<p align="center">
+Final-year CS undergrad @ Amity University Lucknow · AI Intern @ Creatium · Patent under filing (ACN1464) · First-author IEEE paper under review
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/qkrZeRw2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shukla.abhinavvv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinavshu/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhinav24shukla08@gmail.com) 
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhinavshu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://abhinavshukla.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://leetcode.com/abhinav24shukla08/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="mailto:abhinav24shukla08@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shuklaabhinavv&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shuklaabhinavv&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shuklaabhinavv&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🔭 What I'm working on
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- **AI Intern @ Creatium** — shipped a browser-based avatar rendering pipeline that moves real-time lip-sync ML inference off server GPUs onto the client using **WebGPU, ONNX Runtime Web, and Web Workers**; in production for 15 avatars.
+- **First-author IEEE paper under review** — road extraction from satellite imagery (RoadX, below).
+- **Patent under filing (ACN1464)** — unified IoT–ML crop disease detection system.
+
+## 🚀 Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[RoadX — Road Extraction from Satellite Imagery](https://github.com/shuklaabhinavv/road-extraction)** · [Live Demo](https://huggingface.co/spaces/shuklaabhinavv/roadx) | Benchmarked 4 segmentation architectures on the Massachusetts Roads dataset; **0.985 correctness vs. OpenStreetMap ground truth** (above the 0.979 human-labelled baseline). Basis of a first-author IEEE paper under review. | PyTorch · FastAPI · Leaflet · GDAL |
+| **Unified Crop Disease Detection (ACN1464)** — patent under filing | Patent-filed IoT–ML system fusing leaf imagery with environmental sensors on Raspberry Pi, designed for solar-powered UAV/UGV deployment with on-device inference. | ML · IoT · OpenCV |
+| **[F1 Lap Time Prediction & Telemetry Analysis](https://github.com/shuklaabhinavv/Lap-Time-Prediction-and-Telemetry-Analysis-for-Formula-1)** | Ensemble regression models predicting F1 lap times from engineered telemetry features extracted via FastF1 — lap times, sector splits, throttle and brake traces. | Python · FastF1 · Scikit-learn |
+| **[DSA Grind](https://github.com/shuklaabhinavv/dsa-grind-winter-arc)** | Daily journal of solved LeetCode problems — 250+ commits, organized by topic and difficulty. | C++ |
+
+## 🛠️ Tech stack
+
+**Languages:** C++ · Python · C · Java · JavaScript · TypeScript · HTML/CSS
+
+**Frameworks & libraries:** PyTorch · ONNX Runtime · FastAPI · Scikit-learn · NumPy · Pandas · OpenCV
+
+**Tools:** Git · Docker · Linux · Hugging Face Spaces · WebGPU · Firebase · Cloudflare
+
+## 🌱 Community
+
+- **Founded FOSS United Lucknow** — the city's first chapter; monthly meetups and a citywide conference with IIIT Lucknow (200+ participants).
+- **Lead Volunteer, ALiAS (Amity Linux Assistance Sapience)** — workshops on Python, Git, and AI/ML; co-ran the Linux Install Fest.
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shuklaabhinavv&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuklaabhinavv&layout=compact&hide_border=true" alt="Top languages" height="160"/>
+</p>
+
+---
+
+<p align="center">⚽ Arsenal supporter — COYG!</p>
