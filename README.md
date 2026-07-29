@@ -44,8 +44,14 @@ Final-year CS undergrad @ Amity University Lucknow · AI Intern @ Creatium · Pa
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shuklaabhinavv&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuklaabhinavv&layout=compact&hide_border=true" alt="Top languages" height="160"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=shuklaabhinavv&show_icons=true&theme=github_dark&hide_border=true">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shuklaabhinavv&show_icons=true&hide_border=true" alt="GitHub stats" height="160"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shuklaabhinavv&layout=compact&theme=github_dark&hide_border=true">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shuklaabhinavv&layout=compact&hide_border=true" alt="Top languages" height="160"/>
+  </picture>
 </p>
 
 ---
