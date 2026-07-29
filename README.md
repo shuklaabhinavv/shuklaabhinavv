@@ -24,7 +24,7 @@ Final-year CS undergrad @ Amity University Lucknow · AI Intern @ Creatium · Pa
 | Project | What it is | Stack |
 |---|---|---|
 | **[RoadX — Road Extraction from Satellite Imagery](https://github.com/shuklaabhinavv/road-extraction)** · [Live Demo](https://huggingface.co/spaces/shuklaabhinavv/roadx) | Benchmarked 4 segmentation architectures on the Massachusetts Roads dataset; **0.985 correctness vs. OpenStreetMap ground truth** (above the 0.979 human-labelled baseline). Basis of a first-author IEEE paper under review. | PyTorch · FastAPI · Leaflet · GDAL |
-| **Unified Crop Disease Detection (ACN1464)** — patent under filing | Patent-filed IoT–ML system fusing leaf imagery with environmental sensors on Raspberry Pi, designed for solar-powered UAV/UGV deployment with on-device inference. | ML · IoT · OpenCV |
+| **[Unified Crop Disease Detection (ACN1464)](https://github.com/shuklaabhinavv/crop-disease-detection)** — patent under filing | Patent-filed IoT–ML system fusing leaf imagery with environmental sensors on Raspberry Pi, designed for solar-powered UAV/UGV deployment with on-device inference. | ML · IoT · OpenCV |
 | **[F1 Lap Time Prediction & Telemetry Analysis](https://github.com/shuklaabhinavv/Lap-Time-Prediction-and-Telemetry-Analysis-for-Formula-1)** | Ensemble regression models predicting F1 lap times from engineered telemetry features extracted via FastF1 — lap times, sector splits, throttle and brake traces. | Python · FastF1 · Scikit-learn |
 | **[DSA Grind](https://github.com/shuklaabhinavv/dsa-grind-winter-arc)** | Daily journal of solved LeetCode problems — 250+ commits, organized by topic and difficulty. | C++ |
 
